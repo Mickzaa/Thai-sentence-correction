@@ -1,0 +1,5 @@
+attacut==1.0.6
+deepcut==0.7.0.0
+numpy==1.22.3
+pythainlp==3.0.5
+python-crfsuite==0.9.8
